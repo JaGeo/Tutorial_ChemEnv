@@ -1,0 +1,3 @@
+pymatgen
+fireworks
+atomate
